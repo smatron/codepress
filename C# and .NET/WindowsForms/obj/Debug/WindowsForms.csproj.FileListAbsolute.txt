@@ -1,0 +1,16 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\bin\Debug\CodePress.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\bin\Debug\CodePress.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\bin\Debug\CodePress.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\bin\Debug\MySql.Data.dll
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\WindowsForms.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.ViewDashboard.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.ViewSignin.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.ViewSignUp.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.ViewUpdate.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\WindowsForms.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\CodePress\CodePress\obj\Debug\CodePress.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CodePress\WindowsForms\bin\Debug\CodePress.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CodePress\WindowsForms\obj\Debug\CodePress.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CodePress\WindowsForms\obj\Debug\CodePress.pdb
